@@ -1,0 +1,8 @@
+*.bat eol=crlf
+*.cmd eol=crlf
+*.vbs eol=crlf
+
+*.sh eol=lf
+*.awk eol=lf
+
+**/generated/**/*.java eol=lf
